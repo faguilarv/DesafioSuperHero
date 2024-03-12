@@ -1,0 +1,13 @@
+/* Footer */
+
+
+.footer_madeInFrancisco {
+    background-color: #325DFF;
+    padding: 5vw 1rem;
+    text-align: center;
+}
+
+.footer_madeInFrancisco small {
+    color: #ffff;
+    font-size: 1em;
+}
